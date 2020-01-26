@@ -4,9 +4,9 @@
   "description": "- [submission PR]()\r - [ci/cd] (https://github.com/401-advanced-javascript-dania/Lab-Class-05/actions9)",
   "main": "index.js",
   "scripts": {
-    "test":  "jest --verbose --coverage",
-    "lint":" eslint**/*.js",
-    "start":" node index.js"
+    "test": "jest --verbose --coverage",
+    "lint": " eslint**/*.js",
+    "start": " node index.js"
   },
   "repository": {
     "type": "git",
