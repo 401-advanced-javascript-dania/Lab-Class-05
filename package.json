@@ -1,0 +1,27 @@
+{
+  "name": "Lab-Class-05",
+  "version": "1.0.0",
+  "description": "- [submission PR]()\r - [ci/cd] (https://github.com/401-advanced-javascript-dania/Lab-Class-05/actions9)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose --coverage",
+    "lint": " eslint '**/*.js'",
+    "start": " node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/401-advanced-javascript-dania/Lab-Class-05.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/401-advanced-javascript-dania/Lab-Class-05/issues"
+  },
+  "homepage": "https://github.com/401-advanced-javascript-dania/Lab-Class-05#readme",
+  "dependencies": {
+    "@code-fellows/supergoose": "^1.0.1",
+    "jest": "^25.1.0",
+    "mongoose": "^5.8.9"
+  }
+}
